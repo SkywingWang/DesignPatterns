@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidBugTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidControlTools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GeekAlgorithmProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SkywingDocument" vcs="Git" />
+  </component>
+</project>
