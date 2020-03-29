@@ -1,5 +1,8 @@
-package main.singleton;
+package main.singletonPattern;
 
+/**
+ * double check 单例
+ */
 public class DCLSingleton {
     private static DCLSingleton sInstance = null;
     private DCLSingleton(){}
@@ -16,4 +19,5 @@ public class DCLSingleton {
         }
         return sInstance;
     }
+
 }

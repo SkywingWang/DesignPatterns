@@ -1,5 +1,8 @@
-package main.singleton;
+package main.singletonPattern;
 
+/**
+ * 懒汉模式
+ */
 public class LazySingleton {
     private static LazySingleton instance;
     private LazySingleton(){}
