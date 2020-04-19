@@ -1,9 +1,8 @@
 package test;
 
-import main.builderPattern.Builder;
-import main.builderPattern.Director;
-import main.builderPattern.Macbook;
-import main.builderPattern.MacbookBuilder;
+import main.builderPattem.Builder;
+import main.builderPattem.Director;
+import main.builderPattem.MacbookBuilder;
 
 /**
  * Created by skywingking
